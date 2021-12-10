@@ -1,0 +1,24 @@
+### Explanation:
+
+- The application asks for a path to the requested shared folder on the client file system
+- The code finds the name of the USERPROFILE through OS module. And changes the directory to access the files on the desktop.
+- The code creates an HTTP request
+- Finds the hostname to serve the file in a particular port for secured sharing.
+- Then finds the IP address of the system so that we can connect a particular device.
+- The aplication opens a socket for a continuous stream of data between client and server
+- Once the device connected to the same network  the IP address can access the files of the system.
+
+# SharedFolder.md
+
+
+
+
+**Table of Contents**
+
+[TOCM]
+
+[TOC]
+
+
+
+###End
